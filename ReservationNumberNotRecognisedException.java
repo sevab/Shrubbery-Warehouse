@@ -1,0 +1,2 @@
+package warehouse;
+public class ReservationNumberNotRecognisedException extends Exception{}

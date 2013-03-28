@@ -9,7 +9,7 @@ package warehouse;
  */
 import java.io.Serializable;
 public class ShrubItem implements Serializable{
-  // declare fields of appropriate type
+	// declare fields of appropriate type
 	private String name;
 	private Foliage foliage;
 	private String ID;

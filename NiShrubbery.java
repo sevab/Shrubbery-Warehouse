@@ -13,7 +13,7 @@ import java.io.FileInputStream;
 
 public class NiShrubbery implements ShrubMerchant, Serializable
 {
-  private ShrubItem[] shrubsStockArray;
+	private ShrubItem[] shrubsStockArray;
 	private int elementsStocked;
 	private int[][] matrix;
 	private int[][] tracker;
