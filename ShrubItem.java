@@ -4,7 +4,7 @@ package warehouse;
 /**
  * Classes that describes a Shrub
  * 
- * @author Student ID: 610051863 
+ * @author Student ID: xxxxxxxxx 
  * @version 1.0
  */
 import java.io.Serializable;
