@@ -6,7 +6,6 @@ import java.io.IOException;
  * implementing this interface should initialise the ShrubMerchant 
  * containing no shrubs
  * 
- * @author Jonathan Fieldsend 
  * @version 1.1
  */
 
